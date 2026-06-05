@@ -11,7 +11,7 @@ A small project that lets you generate images from a text prompt using Stable Di
 ## Setup
 
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/Guna-Asher/Stable-diffusion.git
 cd Stable-diffusion
 python3 -m venv .venv
 source .venv/bin/activate
